@@ -96,6 +96,9 @@
     "fig/link-util": {
         "version": "1.0.0"
     },
+    "friendsofsymfony/user-bundle": {
+        "version": "v2.1.2"
+    },
     "jdorn/sql-formatter": {
         "version": "v1.2.17"
     },
@@ -154,7 +157,7 @@
         "version": "v4.3.1"
     },
     "symfony/cache-contracts": {
-        "version": "v1.1.5"
+        "version": "v1.1.1"
     },
     "symfony/config": {
         "version": "v4.3.1"
@@ -209,7 +212,7 @@
         "version": "v4.3.1"
     },
     "symfony/event-dispatcher-contracts": {
-        "version": "v1.1.5"
+        "version": "v1.1.1"
     },
     "symfony/expression-language": {
         "version": "v4.3.1"
@@ -241,7 +244,7 @@
             "repo": "github.com/symfony/recipes",
             "branch": "master",
             "version": "4.2",
-            "ref": "0dfae0b1cd8349ae47659b35602f772b4a7e2280"
+            "ref": "f5cb896a182fa2b845c41d287d03cd61279b7ba5"
         },
         "files": [
             "config/bootstrap.php",
@@ -258,7 +261,7 @@
         "version": "v4.3.1"
     },
     "symfony/http-client-contracts": {
-        "version": "v1.1.5"
+        "version": "v1.1.3"
     },
     "symfony/http-foundation": {
         "version": "v4.3.1"
@@ -396,7 +399,7 @@
         "version": "v1.0.2"
     },
     "symfony/service-contracts": {
-        "version": "v1.1.5"
+        "version": "v1.1.2"
     },
     "symfony/stopwatch": {
         "version": "v4.3.1"
@@ -415,8 +418,11 @@
             "config/packages/test/swiftmailer.yaml"
         ]
     },
+    "symfony/templating": {
+        "version": "v4.3.2"
+    },
     "symfony/test-pack": {
-        "version": "v1.0.6"
+        "version": "v1.0.5"
     },
     "symfony/translation": {
         "version": "3.3",
@@ -424,7 +430,7 @@
             "repo": "github.com/symfony/recipes",
             "branch": "master",
             "version": "3.3",
-            "ref": "2ad9d2545bce8ca1a863e50e92141f0b9d87ffcd"
+            "ref": "1fb02a6e1c8f3d4232cce485c9afa868d63b115a"
         },
         "files": [
             "config/packages/translation.yaml",
@@ -432,7 +438,7 @@
         ]
     },
     "symfony/translation-contracts": {
-        "version": "v1.1.5"
+        "version": "v1.1.2"
     },
     "symfony/twig-bridge": {
         "version": "v4.3.1"
@@ -500,7 +506,7 @@
         "version": "v4.3.1"
     },
     "twig/twig": {
-        "version": "v2.11.3"
+        "version": "v2.11.2"
     },
     "webmozart/assert": {
         "version": "1.4.0"
